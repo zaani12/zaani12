@@ -1,8 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm Jalil Betroji</h1>
+<h1 align="center">Hi 👋, I'm zaani</h1>
 <h3 align="center">A passionate full stack developer from Morocco</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jalil-betroji&label=Profile%20views&color=0e75b6&style=flat" alt="jalil-betroji" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zaani12&label=Profile%20views&color=0e75b6&style=flat" alt="jalil-betroji" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jalil-betroji" alt="jalil-betroji" /></a> </p>
 
